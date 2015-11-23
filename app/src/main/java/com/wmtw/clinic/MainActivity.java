@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity
                 fragment = WebViewFragment.newInstance(itemId);
                 break;
             case R.id.nav_map:
-                fragment = HomeFragment.newInstance(itemId);
+                fragment = MapFragment.newInstance(itemId);
                 break;
             case R.id.nav_about:
                 fragment = WebViewFragment.newInstance(itemId);
