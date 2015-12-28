@@ -1,0 +1,75 @@
+{
+  "clinic": [
+    {
+      "address": "474 Campus Place, Hobucken, Delaware, 6041",
+      "phone": "+1 (917) 552-2283",
+      "email": "hung@kogi.ws",
+      "company": "GEOLOGIX",
+      "picture": "http://placehold.it/32x32",
+      "balance": "$3,455.24",
+      "isActive": true,
+      "guid": "e4f4e890-b8b0-4fe9-815e-35a9458a5b4f",
+      "index": 0,
+      "_id": "565312c86308814888cf9771",
+      "lat": "22.716149",
+      "lng": "120.283207"
+    },
+    {
+      "address": "645 Bokee Court, Orick, Federated States Of Micronesia, 6832",
+      "phone": "+1 (991) 596-3320",
+      "email": "hung@kogi.ws",
+      "company": "MUSAPHICS",
+      "picture": "http://placehold.it/32x32",
+      "balance": "$1,534.69",
+      "isActive": false,
+      "guid": "15f4a2e4-d010-4c3e-9a9f-7bc3278eb946",
+      "index": 1,
+      "_id": "565312c80867a47bd5fc03fd",
+      "lat": "22.722278",
+      "lng": "120.277205"
+
+    },
+    {
+      "address": "487 Florence Avenue, Macdona, South Dakota, 618",
+      "phone": "+1 (808) 575-2118",
+      "email": "hung@kogi.ws",
+      "company": "FREAKIN",
+      "picture": "http://placehold.it/32x32",
+      "balance": "$1,309.57",
+      "isActive": true,
+      "guid": "856719d1-f4ef-48c1-9eac-2d695914d18e",
+      "index": 2,
+      "_id": "565312c838dc5b8acb862904",
+      "lat": "22.718517",
+      "lng": "120.297249"
+    },
+    {
+      "address": "264 Carlton Avenue, Carrsville, Vermont, 6675",
+      "phone": "+1 (989) 482-2060",
+      "email": "hung@kogi.ws",
+      "company": "BOINK",
+      "picture": "http://placehold.it/32x32",
+      "balance": "$3,657.20",
+      "isActive": true,
+      "guid": "977dafe6-ec49-44f2-ad31-c62541c8adb9",
+      "index": 3,
+      "_id": "565312c8d82394ccd86c97b2",
+      "lat": "22.711273",
+      "lng": "120.292397"
+    },
+    {
+      "address": "874 Tech Place, Stewartville, Maryland, 2059",
+      "phone": "+1 (821) 532-2834",
+      "email": "hung@kogi.ws",
+      "company": "DYMI",
+      "picture": "http://placehold.it/32x32",
+      "balance": "$2,166.46",
+      "isActive": false,
+      "guid": "543c55e3-ddfd-4399-b61b-f0b8d5d417e8",
+      "index": 4,
+      "_id": "565312c8c0ddb99a202114d7",
+      "lat": "22.701893",
+      "lng": "120.302797"
+    }
+  ]
+}
