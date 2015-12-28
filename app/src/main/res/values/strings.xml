@@ -5,4 +5,26 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_settings">Settings</string>
 
+    <string name="confirm">確認</string>
+    <string name="no_network_connection">請確認是否有連線網路</string>
+    <string name="remind_you">提醒您</string>
+
+    <string name="nostoreMsg1">您的附近沒有診所！</string>
+    <string name="nostoreMsg2">建議您加大搜尋距離</string>
+
+    <string name="callout">打電話</string>
+    <string name="cancel">取消</string>
+
+    <string name="test_username">陳大明</string>
+    <string name="test_addr">高雄市鼓山區明誠四路118號 (位於明誠路與美術東四路交叉口)</string>
+    <string name="test_email">abcd1234@gmail.com</string>
+    <string name="test_store_name">漢神巨蛋門市</string>
+    <string name="test_km">12334.27km</string>
+    <string name="test_tel">0268362937</string>
+    <string name="test_coupon_title">遠雄大飯店，住宿5折再升等總統套房</string>
+    <string name="test_coupon_description">72折電子票券$180可享原價$250 LINE FRIENDS互動樂園 預售票前進高雄！台灣巡迴最終站!</string>
+
+    <string name="img_decoration">裝飾圖片</string>
+    <string name="navigation">導航</string>
+
 </resources>
